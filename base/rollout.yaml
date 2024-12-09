@@ -23,7 +23,7 @@ spec:
         tier: front
     spec:
       containers:
-      - image: voa2000/vote:v4
+      - image: voa2000/vote:v5
         name: vote
         imagePullPolicy: Always
         resources: 
